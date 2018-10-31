@@ -22,3 +22,6 @@ def new
 
     redirect_to '/'
   end
+  
+  
+end
